@@ -1,5 +1,5 @@
 
-### Olá! Eu sou Thais Sousa. 👋
+### Olá! Eu sou Thais. 👋
 
 
 
