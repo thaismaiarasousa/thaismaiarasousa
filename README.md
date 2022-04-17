@@ -4,7 +4,7 @@
 
 
 - 🌱 Atualmente curso o segundo período em Gestão, Análise e Desenvolvimento de Sistemas.
-- 🌱 Foco em linguagens como JS, HTML e CSS.
+- 🌱 Foco em linguagens como SQL, JS, HTML e CSS.
 - 😄 Pronouns: ela/dela.
 
 
