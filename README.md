@@ -4,7 +4,7 @@
 
 
 - 🌱 Atualmente curso o terceiro período em Gestão, Análise e Desenvolvimento de Sistemas.
-- 🌱 Foco em linguagens como SQL, Python (con Pandas y Numpy), y tecnologias como SQLServer, MySQL, Jupyter.
+- 🌱 Foco em linguagens como SQL, Python, y tecnologias como SQLServer, MySQL, Jupyter.
 - 😄 Pronouns: ela/dela.
 
 <div>
@@ -21,7 +21,7 @@
 </div>
 
 <div>
-  ![Snake animation](https://github.com/ellen2121/thaismaiarasousa/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/thaismaiarasousa/thaismaiarasousa/blob/output/github-contribution-grid-snake.svg)
  </div>
 
 
