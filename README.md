@@ -3,8 +3,8 @@
 
 
 
-- 🌱 Atualmente curso o segundo período em Gestão, Análise e Desenvolvimento de Sistemas.
-- 🌱 Foco em linguagens como SQL, JS, HTML e CSS.
+- 🌱 Atualmente curso o terceiro período em Gestão, Análise e Desenvolvimento de Sistemas.
+- 🌱 Foco em linguagens como SQL, Python (con Pandas y Numpy), y tecnologias como SQLServer, MySQL, Jupyter.
 - 😄 Pronouns: ela/dela.
 
 
