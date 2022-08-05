@@ -3,8 +3,8 @@
 
 
 
-- 🌱 Atualmente curso o terceiro período em Gestão, Análise e Desenvolvimento de Sistemas.
-- 🌱 Foco em linguagens como SQL, Python, y tecnologias como SQLServer, MySQL, Jupyter.
+- 🌱 Atualmente curso o terceiro período de Gestão, Análise e Desenvolvimento de Sistemas.
+- 🌱 Me interesso e dedico a linguagens como SQL, Python, e tecnologias como SQLServer, MySQL, Jupyter.
 - 😄 Pronouns: ela/dela.
 
 <div>
@@ -12,7 +12,7 @@
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=thaismaiarasousa&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaismaiarasousa&layout=compact&langs_count=7&theme=react" />
 
-### Me contacte aqui:
+### Entre em contato aqui:
 
 <div>
   <a href="https://www.linkedin.com/in/sousathais/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
