@@ -12,7 +12,7 @@
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=thaismaiarasousa&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaismaiarasousa&layout=compact&langs_count=7&theme=react" />
 
-### Entre em contato aqui:
+### Entre em contato:
 
 <div>
   <a href="https://www.linkedin.com/in/sousathais/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
