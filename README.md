@@ -1,16 +1,22 @@
 
-### Olá! Eu sou Thais. 👋
-
-
+### Olá! Eu sou Thais. Sejam bem-vindos/bem-vindas ao meu GitHub!👋
 
 - 🌱 Atualmente curso o terceiro período de Gestão, Análise e Desenvolvimento de Sistemas.
 - 🌱 Me interesso e dedico a linguagens como SQL, Python, e tecnologias como SQLServer, MySQL, Jupyter.
 - 😄 Pronouns: ela/dela.
+ 
+ 
+## Linguagens e Tecnologias:
 
-<div>
-  <a href="https://github.com/thaismaiarasousa">
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaismaiarasousa&layout=compact&langs_count=7&theme=react" />
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=thaismaiarasousa&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/-Git-white?style=for-the-badge&logo=Git" />
+<img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" 
+</a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/"
+</a> <a href="https://devicon.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://devicon.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
+
 
 ### Entre em contato:
 
@@ -23,4 +29,7 @@
 </div>
 
 
-
+<div>
+  <a href="https://github.com/thaismaiarasousa">
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaismaiarasousa&layout=compact&langs_count=7&theme=react" />
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=thaismaiarasousa&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
