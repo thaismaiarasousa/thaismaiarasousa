@@ -1,6 +1,6 @@
 
 ### Olá! Eu sou Thais. 
-###Sejam bem-vindos/bem-vindas ao meu GitHub!👋
+Sejam bem-vindos/bem-vindas ao meu GitHub!👋
 
 - 🌱 Atualmente curso o terceiro período de Gestão, Análise e Desenvolvimento de Sistemas.
 - 😄 Pronouns: ela/dela.
