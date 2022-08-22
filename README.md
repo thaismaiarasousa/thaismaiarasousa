@@ -25,4 +25,4 @@ Sejam bem-vindos/bem-vindas ao meu GitHub!👋
 <div>
   <a href="https://github.com/thaismaiarasousa">
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaismaiarasousa&layout=compact&langs_count=7&theme=react" />
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=thaismaiarasousa&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  
