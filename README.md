@@ -1,9 +1,14 @@
 
-### Olá! Eu sou Thais. 
-Sejam bem-vindos/bem-vindas ao meu GitHub!👋
+### Olá! Eu sou Thais. Sejam bem-vindos/bem-vindas ao meu GitHub!👋
 
 - 🌱 Atualmente curso o terceiro período de Gestão, Análise e Desenvolvimento de Sistemas.
 - 😄 Pronouns: ela/dela.
+ 
+ <div align="center">
+  <a href="https://github.com/thaismaiarasousa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaismaiarasousa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaismaiarasous&layout=compact&langs_count=7&theme=dracula"/>
+</div>
  
  
 ## Linguagens e Tecnologias:
@@ -29,4 +34,8 @@ Sejam bem-vindos/bem-vindas ao meu GitHub!👋
 <div>
   <a href="https://github.com/thaismaiarasousa">
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaismaiarasousa&layout=compact&langs_count=7&theme=react" />
+  
+<div>
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+</div>
   
