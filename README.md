@@ -32,9 +32,6 @@
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
   <img src="https://www.svgrepo.com/show/349341/djangoproject.svg" alt="django" width="40" height="40"/>
 </a>
-<a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/django-rest-framework.svg" alt="django-rest-framework" width="40" height="40"/>
-</a>
 <a href="https://jwt.io/" target="_blank" rel="noreferrer">
   <img src="https://simpleicons.org/icons/jsonwebtokens.svg" alt="jwt" width="40" height="40"/>
 </a>
