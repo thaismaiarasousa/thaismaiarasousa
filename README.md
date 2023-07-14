@@ -32,6 +32,9 @@
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
   <img src="https://www.svgrepo.com/show/349341/djangoproject.svg" alt="django" width="40" height="40"/>
 </a>
+<a href="https://www.thunderclient.com" target="_blank" rel="noreferrer">
+  <img src="https://www.katk.dev/static/86f2f48b9b0dd900b4892f49f4bbab81/e4f06/logo.png" alt="thunder-client" width="40" height="40"/>
+</a>
 <a href="https://jwt.io/" target="_blank" rel="noreferrer">
   <img src="https://simpleicons.org/icons/jsonwebtokens.svg" alt="jwt" width="40" height="40"/>
 </a>
