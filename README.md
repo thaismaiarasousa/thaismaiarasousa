@@ -36,8 +36,9 @@
   <img src="https://simpleicons.org/icons/jsonwebtokens.svg" alt="jwt" width="40" height="40" style="filter: invert(1);"/>
 </a>
 <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django-rest-framework" width="40" height="40" style="filter: invert(1);"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django-rest-framework.svg" alt="django-rest-framework" width="40" height="40"/>
 </a>
+
 
 
 
