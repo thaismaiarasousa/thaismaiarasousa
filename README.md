@@ -3,12 +3,6 @@
 - 🌱 Atualmente curso o quarto período de Gestão, Análise e Desenvolvimento de Sistemas.
 - 😄 Pronouns: ela/dela.
 
-<div align="flex-start">
-  <a href="https://github.com/thaismaiarasousa">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaismaiarasousa&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
-
 #### Tecnologias que utilizo:
 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
@@ -56,6 +50,3 @@
   </a>
 </div>
 
-#### Linguagens mais utilizadas:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaismaiarasousa&theme=dracula)
