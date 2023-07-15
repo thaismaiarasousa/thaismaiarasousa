@@ -38,6 +38,9 @@
 <a href="https://jwt.io/" target="_blank" rel="noreferrer">
   <img src="https://simpleicons.org/icons/jsonwebtokens.svg" alt="jwt" width="40" height="40"/>
 </a>
+<a href="https://swagger.io/" target="_blank" rel="noreferrer">
+  <img src="https://simpleicons.org/icons/swagger.svg" alt="swagger" width="40" height="40"/>
+</a>
 
 #### Entre em contato:
 
